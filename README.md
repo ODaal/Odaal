@@ -2,7 +2,7 @@
 
 🎓 4th-year **Electrical Engineering (Systems) & Computing Technology** student at the **University of Ottawa**  with a Microprogram in Artificial Intelligence
 
-🔬 Interests: **Analog and Digital Hardware, VLSI, Embedded systems, Machine Learning, and Integrated Systems**  
+🔬 Interests: **Analog and Digital Hardware, VLSI, Embedded systems, Integrated Systems, and Machine Learning**  
 
 💡 Passionate about bridging **hardware and software** to build efficient next-generation computing systems  
 
