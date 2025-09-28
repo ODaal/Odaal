@@ -1,30 +1,54 @@
-# Hi there, I'm ODaal 👋
+# 👋 Hi, I'm Othmane Daali
 
-Welcome to my GitHub! I'm passionate about software engineering, electronics, and computational design. I love tackling challenging problems and building projects that bridge math, code, and real-world applications.
-
-## 🚀 Featured Projects
-
-| Project | Description | Languages |
-| ------- | ----------- | --------- |
-| [Basic RayTracing](https://github.com/ODaal/Basic_RayTracing) | A simple yet educational ray tracing engine for rendering 3D scenes from scratch. | ![Verilog](https://img.shields.io/badge/C++-blue?logo=cplusplus) |
-| [VLSI Multiplexer Design](https://github.com/ODaal/VLSI-Multiplexer-Design-Project) | Digital design project: VLSI multiplexer implemented and analyzed.
-| [Voice Recognition](https://github.com/ODaal/Voice-Recognition) | Speech-to-text and command recognition using signal processing and ML. | ![Python](https://img.shields.io/badge/Python-yellow?logo=python) |
-| [Inductance Calculator in C](https://github.com/ODaal/Inductance-Calculator-in-C) | Engineering tool for calculating inductance in various coil configurations. | ![C](https://img.shields.io/badge/C-lightgrey?logo=c) |
-| [Java 3D Point Clustering](https://github.com/ODaal/Java-3D-Point-Clustering) | Cluster analysis and visualization in 3D space using Java. | ![Java](https://img.shields.io/badge/Java-red?logo=java) |
-
-## 🧰 Tech Stack
-
-![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
-![Python](https://img.shields.io/badge/-Python-yellow?logo=python)
-![Java](https://img.shields.io/badge/-Java-red?logo=java)
-![Verilog](https://img.shields.io/badge/-Verilog-green?logo=verilog)
-![C](https://img.shields.io/badge/-C-lightgrey?logo=c)
-
-## 📫 Contact & Links
-
-- Check out my projects above or browse my repositories!
-- Connect via GitHub: [ODaal](https://github.com/ODaal)
+🎓 4th-year **Electrical Engineering (Systems) & Computing Technology** student at the **University of Ottawa**  with a Microprogram in Artificial Intelligence
+🔬 Interests: **Analog and Digital Hardware, VLSI, Embedded systems, Machine Learning, and Integrated Systems**  
+💡 Passionate about bridging **hardware and software** to build efficient next-generation computing systems  
 
 ---
 
-_Thanks for visiting!_
+## 🚀 Featured Projects
+
+🎮 **FPGA Ray Tracing Engine**  
+I built a hardware ray tracer in **Verilog** on the **Xilinx PYNQ-Z2**, using a modular pipeline (Thread Generator, Ray Core, Sphere Intersector, Shading, Framebuffer) with **Q18.14 fixed-point math**. By combining **parallel square root units** with **sequential stages** and tight **FIFO synchronization**, I achieved a **5× speedup**; validated the design with **testbenches**, **Vivado ILA**, and timing analysis. *(Throughput example: ~5 pixels / 44 cycles @ 25 MHz ≈ ~10 fps at 640×480.)*  
+[Repo](https://github.com/ODaal/Basic_RayTracing)
+
+🔀 **Custom VLSI 4×1 Multiplexer (45 nm)**  
+A full-custom, transistor-level 4×1 MUX with enable in **Cadence Virtuoso** (**GPDK45**). I contributed across the flow and **led the final layout**, completing **ERC/DRC/LVS**, **parasitic extraction**, and timing sims to confirm correctness and symmetry. The project showcases a clean schematic-to-layout methodology and disciplined verification.  
+[Repo](https://github.com/ODaal/VLSI-Multiplexer-Design-Project) 
+
+🏠 **Voice Recognition System (VGGVox, pretrained)**  
+Implemented a **Python** voice verification pipeline focused on **signal preprocessing**—pre-emphasis, framing, FFT, normalization with **NumPy**—and **adapted the data shape** to a **pretrained VGGVox** model with imported weights for embedding-based speaker verification (cosine distance). Intended for future smart-home integration.  
+[Repo](https://github.com/ODaal/Voice-Recognition)
+
+📈 **Java 3D DBSCAN Clustering**
+Implemented **DBSCAN** in Java to cluster 3D point clouds from CSV using `eps` and `minPts`, labeling noise and assigning random RGB colors per cluster. Includes neighbor search, cluster-size reporting, and CSV export with coordinates, labels, and colors.
+[View Repository](https://github.com/ODaal/Java-3D-Point-Clustering)
+
+⚙️ **Inductance Solver and Plotter (C Project)**  
+Built a C program to compute inductance **L versus pc** using the **bisection method**, with structured file I/O and binary data handling. Plotted results using **PLplot**, applying numerical methods and scientific visualization.  
+[View Repository]([https://github.com/ODaal/Inductance-Calculator-in-C)
+
+📱 **Service Novigrad (SEG2505 Android App)**  
+A course group project simulating public-service workflows: account creation, branch search, service requests, ratings, and status notifications. Built with **Android Studio** and **Firebase** (real-time sync); we modeled the system with **UML class diagrams** and iterated through incremental deliverables to ship a functional prototype.  
+[Repo](https://github.com/ODaal/Android-Studio-Mobile-App)
+
+---
+
+## 🛠️ Skills
+**Languages:** Verilog, Python, C, Java, MATLAB, Bash, Perl  
+**Hardware & Tools:** Xilinx Vivado, Cadence Virtuoso, Quartus, ModelSim, Simulink  
+**Software:** TensorFlow/Keras, NumPy, Pandas, Android Studio, Firebase  
+**Domains:** Digital Logic, Analog Design, VLSI, Signal Processing
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=othmanedaali&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=othmanedaali&layout=compact&theme=radical)
+
+---
+
+📫 **Connect with me**: [LinkedIn](your-linkedin-here) • [Email](odaal085@uottawa.ca)
+
+
+---
