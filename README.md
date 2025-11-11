@@ -50,7 +50,7 @@ A course group project simulating public-service workflows: account creation, br
 **Languages:** Verilog, Python, C, Java, MATLAB, Bash, Perl  
 **Hardware & Tools:** Xilinx Vivado, Cadence Virtuoso, Quartus, ModelSim, Simulink  
 **Software:** TensorFlow/Keras, NumPy, Pandas, Android Studio, Firebase  
-**Domains:** Digital Logic, Analog Design, VLSI, Signal Processing
+**Domains:** Digital Logic, Analog Design, VLSI, Signal Processing, Control Engineering
 
 ---
 
