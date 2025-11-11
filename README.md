@@ -2,7 +2,7 @@
 
 🎓 4th-year **Electrical Engineering (Systems) & Computing Technology** student at the **University of Ottawa**  with a Microprogram in Artificial Intelligence
 
-🔬 Interests: **Analog and Digital Hardware, VLSI, Embedded systems, Integrated Systems, and Machine Learning**  
+🔬 Interests: **Analog and Digital Hardware, VLSI, Embedded systems, Control Systems, and Machine Learning**  
 
 💡 Passionate about bridging **hardware and software** to build efficient next-generation computing systems  
 
@@ -23,6 +23,10 @@ A full-custom, transistor-level 4×1 MUX with enable in **Cadence Virtuoso** (**
 🚗 **Optimal Speed Control of a Hybrid Electric Vehicle (HEV)**  
 This repository contains a complete comparative study of classical and modern control strategies for Hybrid Electric Vehicle (HEV) speed regulation through throttle adjustment.  
 [View Repository](https://github.com/ODaal/Optimal-Speed-Control-of-Hybrid-Electric-Vehicle) 
+
+🔬 **Wideband Anti-Reflective Coating Optimization for Solar Cells**  
+This repository presents a complete analytical and numerical study on the design of 2-layer and 3-layer anti-reflective (AR) coatings using the Transfer Matrix Method (TMM). The work evaluates reflectivity, transmissivity, and solar power production across the 400–1400 nm spectrum, identifying optimal refractive index configurations that maximize energy transmission into photovoltaic cells.  
+[View Repository](https://github.com/ODaal/MatLab-Anti-Reflective-Coating/tree/main) 
 
 
 🏠 **Voice Recognition System (VGGVox, pretrained)**  
