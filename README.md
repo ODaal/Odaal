@@ -20,8 +20,8 @@ A full-custom, transistor-level 4×1 MUX with enable in **Cadence Virtuoso** (**
 [View Repository](https://github.com/ODaal/VLSI-Multiplexer-Design-Project) 
 
 
-🚗 Optimal Speed Control of a Hybrid Electric Vehicle (HEV)
-This repository contains a complete comparative study of classical and modern control strategies for Hybrid Electric Vehicle (HEV) speed regulation through throttle adjustment.
+🚗 **Optimal Speed Control of a Hybrid Electric Vehicle (HEV)** 
+This repository contains a complete comparative study of classical and modern control strategies for Hybrid Electric Vehicle (HEV) speed regulation through throttle adjustment. 
 [View Repository](https://github.com/ODaal/Optimal-Speed-Control-of-Hybrid-Electric-Vehicle)
 
 
