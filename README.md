@@ -2,9 +2,9 @@
 
 🎓 4th-year **Electrical Engineering (Systems) & Computing Technology** student at the **University of Ottawa**  with a Microprogram in Artificial Intelligence
 
-🔬 Interests: **Analog and Digital Hardware, VLSI, Embedded systems, Control Systems, and Machine Learning**  
+Interests: **Analog and Digital Hardware, VLSI, Embedded systems, Control Systems, and Machine Learning**  
 
-💡 Passionate about bridging **hardware and software** to build efficient next-generation computing systems  
+Passionate about bridging **hardware and software** to build efficient next-generation computing systems  
 
 ---
 
@@ -50,7 +50,7 @@ A course group project simulating public-service workflows: account creation, br
 
 ---
 
-## 🛠️ Skills
+## Skills
 **Languages:** Verilog, Python, C, Java, MATLAB, Bash, Perl  
 **Hardware & Tools:** Xilinx Vivado, Cadence Virtuoso, Quartus, ModelSim, Simulink  
 **Software:** TensorFlow/Keras, NumPy, Pandas, Android Studio, Firebase  
