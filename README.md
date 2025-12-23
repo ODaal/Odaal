@@ -30,7 +30,7 @@ This repository presents a complete analytical and numerical study on the design
 
 
 **Voice Recognition System (VGGVox, pretrained)**  
-Implemented a **Python** voice verification pipeline focused on **signal preprocessing**—pre-emphasis, framing, FFT, normalization with **NumPy**—and **adapted the data shape** to a **pretrained VGGVox** model with imported weights for embedding-based speaker verification (cosine distance). Intended for future smart-home integration.  
+Implemented a **Python** voice verification pipeline focused on **signal preprocessing**, pre-emphasis, framing, FFT, normalization with **NumPy** + adapted the data shape to a **pretrained VGGVox** model with imported weights for embedding-based speaker verification (cosine distance). Intended for future smart-home integration.  
 [View Repository](https://github.com/ODaal/Voice-Recognition)
 
 
