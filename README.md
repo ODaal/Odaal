@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Othmane Daali
 
-🎓 4th-year **Electrical Engineering (Systems) & Computing Technology** student at the **University of Ottawa**  with a Microprogram in Artificial Intelligence
+🎓 5th-year **Electrical Engineering (Systems) & Computing Technology** student at the **University of Ottawa**  with a Microprogram in Artificial Intelligence
 
 Interests: **Analog and Digital Hardware, VLSI, Embedded systems, Control Systems, and Machine Learning**  
 
