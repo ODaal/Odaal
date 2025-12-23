@@ -33,16 +33,13 @@ This repository presents a complete analytical and numerical study on the design
 Implemented a **Python** voice verification pipeline focused on **signal preprocessing**, pre-emphasis, framing, FFT, normalization with **NumPy** + adapted the data shape to a **pretrained VGGVox** model with imported weights for embedding-based speaker verification (cosine distance). Intended for future smart-home integration.  
 [View Repository](https://github.com/ODaal/Voice-Recognition)
 
-
-**Java 3D DBSCAN Clustering**
-Implemented **DBSCAN** in Java to cluster 3D point clouds from CSV using `eps` and `minPts`, labeling noise and assigning random RGB colors per cluster. Includes neighbor search, cluster-size reporting, and CSV export with coordinates, labels, and colors.
+**Java 3D DBSCAN Clustering**  
+Implemented **DBSCAN** in Java to cluster 3D point clouds from CSV using `eps` and `minPts`, labeling noise and assigning random RGB colors per cluster. Includes neighbor search, cluster-size reporting, and CSV export with coordinates, labels, and colors.  
 [View Repository](https://github.com/ODaal/Java-3D-Point-Clustering)
-
 
 **Inductance Solver and Plotter (C Project)**  
 Built a C program to compute inductance **L versus pc** using the **bisection method**, with structured file I/O and binary data handling. Plotted results using **PLplot**, applying numerical methods and scientific visualization.  
 [View Repository](https://github.com/ODaal/Inductance-Calculator-in-C)
-
 
 **Service Novigrad (SEG2505 Android App)**  
 A course group project simulating public-service workflows: account creation, branch search, service requests, ratings, and status notifications. Built with **Android Studio** and **Firebase** (real-time sync); we modeled the system with **UML class diagrams** and iterated through incremental deliverables to ship a functional prototype.  
