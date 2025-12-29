@@ -18,17 +18,17 @@ I built a hardware ray tracer in **Verilog** on the **Xilinx PYNQ-Z2**, using a 
 A full-custom, transistor-level 4×1 MUX with enable in **Cadence Virtuoso** (**GPDK45**). I contributed across the flow and **led the final layout**, completing **ERC/DRC/LVS**, **parasitic extraction**, and timing sims to confirm correctness and symmetry. The project showcases a clean schematic-to-layout methodology and disciplined verification.  
 [View Repository](https://github.com/ODaal/VLSI-Multiplexer-Design-Project)
 
-▶ Machine Learning for Gallstone Prediction
-A collaborative project in data science using supervised and unsupervised machine learning models in forecasting gallstone disease based upon clinical parameters. I was mainly responsible in exploratory data analysis and interpretation in these analyses through correlation analysis, class-conditional plots, and feature engineering to guide modeling decisions. In these models, we were able to achieve a level of 77% accuracy using Logistic Regression/Random Forest models, whiler clustering analysis showed different profiles in metabolic risks.
+▶ **Machine Learning for Gallstone Prediction**  
+A collaborative project in data science using supervised and unsupervised machine learning models in forecasting gallstone disease based upon clinical parameters. I was mainly responsible in exploratory data analysis and interpretation in these analyses through correlation analysis, class-conditional plots, and feature engineering to guide modeling decisions. In these models, we were able to achieve a level of 77% accuracy using Logistic Regression/Random Forest models, whiler clustering analysis showed different profiles in metabolic risks.  
 [View Repository](Machine-learning-pipeline-for-gallstone-disease-prediction)
 
 ▶ **Optimal Speed Control of a Hybrid Electric Vehicle (HEV)**  
 This repository contains a complete comparative study of classical and modern control strategies for Hybrid Electric Vehicle (HEV) speed regulation through throttle adjustment.  
 [View Repository](https://github.com/ODaal/Optimal-Speed-Control-of-Hybrid-Electric-Vehicle) 
 
-▶ **Memoarr! – Object-Oriented C++ Game**
-A console-based implementation of the Memoarr! memory game built in modern C++, following strict object-oriented design principles. I designed the core game architecture (cards, board, players, rules engine) with clean class hierarchies, encapsulation, and dynamic memory management. The project emphasizes game-logic correctness and robustness across different game modes.
-[View Repository](https://github.com/ODaal/Memoarr-Card-Game)
+▶ **Memoarr! – Object-Oriented C++ Game**  
+A console-based implementation of the Memoarr! memory game built in modern C++, following strict object-oriented design principles. I designed the core game architecture (cards, board, players, rules engine) with clean class hierarchies, encapsulation, and dynamic memory management. The project emphasizes game-logic correctness and robustness across different game modes  
+[View Repository](https://github.com/ODaal/Memoarr-Card-Game) 
 
 ▶ **Wideband Anti-Reflective Coating Optimization for Solar Cells**  
 This repository presents a complete analytical and numerical study on the design of 2-layer and 3-layer anti-reflective (AR) coatings using the Transfer Matrix Method (TMM). The work evaluates reflectivity, transmissivity, and solar power production across the 400–1400 nm spectrum, identifying optimal refractive index configurations that maximize energy transmission into photovoltaic cells.  
