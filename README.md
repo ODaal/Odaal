@@ -39,9 +39,9 @@ A console-based implementation of the Memoarr! memory game built in modern C++, 
 
 ---
 
-▶ **ESP32 Smart Home Control System (Embedded + App + Voice Control)**  
-Designed and implemented an ESP32-based smart home controller integrating sensors (DHT11 temperature/humidity, PIR motion, fire detection) and actuators (lights, fan relay, stepper-motor door, buzzer, LCD). The firmware exposes a Wi-Fi HTTP API for real-time control and status monitoring, supporting automatic and manual modes. It also rapidly prototyped a mobile app for wireless control and integrated a Python-based voice recognition script to enable hands-free control.
-[View Repository](https://github.com/ODaal/Esp32-Smart-Home-Control-System) 
+▶ **ESP32 Smart Home Control System**  
+Designed and implemented an ESP32-based smart home controller integrating sensors (DHT11 temperature/humidity, PIR motion, fire detection) and actuators (lights, fan relay, stepper-motor door, buzzer, LCD). The firmware exposes a Wi-Fi HTTP API for real-time control and status monitoring, supporting automatic and manual modes. It also rapidly prototyped a mobile app for wireless control and integrated a Python-based voice recognition script to enable hands-free control.  
+[View Repository](https://github.com/ODaal/Esp32-Smart-Home-Control-System)
 
 ---
 
@@ -76,9 +76,9 @@ A course group project simulating public-service workflows: account creation, br
 ---
 
 ## Skills
-**Languages:** Verilog, Python, C, Java, MATLAB, Bash, Perl  
-**Hardware & Tools:** Xilinx Vivado, Cadence Virtuoso, Quartus, ModelSim, Simulink  
-**Software:** TensorFlow/Keras, NumPy, Pandas, Android Studio, Firebase  
+**Languages:** Python, C/C++, Java, MATLAB, Bash, Perl, Verilog  
+**Hardware & Tools:** Xilinx Vivado, Cadence Virtuoso, Quartus, Simulink, Altium  
+**Software:** Scikit-learn, NumPy, Pandas, TensorFlow/Keras, Android Studio   
 **Domains:** Hardware and Software Engineering, Digital Logic, Analog Design, VLSI, Signal Processing, Control Engineering
 
 ---
