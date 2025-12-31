@@ -23,7 +23,7 @@ A full-custom, transistor-level 4×1 MUX with enable in **Cadence Virtuoso** (**
 
 ▶ **Machine Learning for Gallstone Prediction**   | Python: Scikit-learn, NumPy, Pandas, TensorFlow/Keras  
 A collaborative project in data science using supervised and unsupervised machine learning models in forecasting gallstone disease based upon clinical parameters. I was mainly responsible in exploratory data analysis and interpretation in these analyses through correlation analysis, class-conditional plots, and feature engineering to guide modeling decisions. In these models, we were able to achieve a level of 77% accuracy using Logistic Regression/Random Forest models, whiler clustering analysis showed different profiles in metabolic risks.  
-[View Repository](Machine-learning-pipeline-for-gallstone-disease-prediction)
+[View Repository](https://github.com/ODaal/Machine-learning-pipeline-for-gallstone-disease-prediction)
 
 ---
 
