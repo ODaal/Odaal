@@ -39,6 +39,12 @@ A console-based implementation of the Memoarr! memory game built in modern C++, 
 
 ---
 
+▶ **ESP32 Smart Home Control System (Embedded + App + Voice Control)**  
+Designed and implemented an ESP32-based smart home controller integrating sensors (DHT11 temperature/humidity, PIR motion, fire detection) and actuators (lights, fan relay, stepper-motor door, buzzer, LCD). The firmware exposes a Wi-Fi HTTP API for real-time control and status monitoring, supporting automatic and manual modes. It also rapidly prototyped a mobile app for wireless control and integrated a Python-based voice recognition script to enable hands-free control.
+[View Repository](https://github.com/ODaal/Esp32-Smart-Home-Control-System) 
+
+---
+
 ▶ **Wideband Anti-Reflective Coating Optimization for Solar Cells**  
 This repository presents a complete analytical and numerical study on the design of 2-layer and 3-layer anti-reflective (AR) coatings using the Transfer Matrix Method (TMM). The work evaluates reflectivity, transmissivity, and solar power production across the 400–1400 nm spectrum, identifying optimal refractive index configurations that maximize energy transmission into photovoltaic cells.  
 [View Repository](https://github.com/ODaal/MatLab-Anti-Reflective-Coating/tree/main) 
